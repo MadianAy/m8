@@ -44,7 +44,7 @@ def main():
         os.system('clear')
         print(f"{G}[{Y}+{G}]{Y} جاري تحطيم واتساب على الرقم: +{967775180627} ...")
         time.sleep(5)
-        link = fhttps://wa.me/967775180627?text=%D9%85%D8%B1%D8%AD%D8%A8%D8%A7%20%D9%87%D8%B0%D8%A7%20%D8%A7%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1%20%D8%AA%D8%AC%D8%B1%D8%A8%D9%8A
+        link = "https://wa.me/967775180627?text=%D9%85%D8%B1%D8%AD%D8%A8%D8%A7%20%D9%87%D8%B0%D8%A7%20%D8%A7%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1%20%D8%AA%D8%AC%D8%B1%D8%A8%D9%8A"
 
 if __name__ == "__main__":
     main()
